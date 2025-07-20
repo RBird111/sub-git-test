@@ -7,5 +7,5 @@ func PrintName() {
 }
 
 func PrintName2() {
-	fmt.Println("github.com/RBird111/sub-git-test")
+	fmt.Println("update github.com/RBird111/sub-git-test")
 }
